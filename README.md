@@ -1,6 +1,6 @@
 # Arduino-Laser
 
-* Автор кода - Prosta
- * Донат - https://www.donationalerts.com/r/prostaprogramming
+* Author of the code - Prosta
+ * Donat - https://www.donationalerts.com/r/prostaprogramming
  * https://github.com/ProstaIT
  * https://www.youtube.com/c/PROSTA
